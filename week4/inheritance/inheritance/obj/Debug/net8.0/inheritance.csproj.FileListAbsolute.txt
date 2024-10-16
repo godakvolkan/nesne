@@ -1,0 +1,14 @@
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\vgodak\nesnelab\week4\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll

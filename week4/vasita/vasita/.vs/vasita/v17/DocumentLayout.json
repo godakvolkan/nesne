@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vgodak\\nesnelab\\week4\\vasita\\vasita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A677AE-1AD3-41BA-A6B2-8BEC59CEE1D8}|vasita\\vasita.csproj|c:\\users\\vgodak\\nesnelab\\week4\\vasita\\vasita\\vasita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A677AE-1AD3-41BA-A6B2-8BEC59CEE1D8}|vasita\\vasita.csproj|solutionrelative:vasita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vgodak\\nesnelab\\week4\\vasita\\vasita\\vasita\\Program.cs",
+              "RelativeDocumentMoniker": "vasita\\Program.cs",
+              "ToolTip": "C:\\Users\\vgodak\\nesnelab\\week4\\vasita\\vasita\\vasita\\Program.cs",
+              "RelativeToolTip": "vasita\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:08:48.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
